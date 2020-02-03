@@ -14,12 +14,12 @@ class contact2Controller extends Controller
     {
         $messages=[
             'email.required'=>'Es necesario ingresar un correo',
-            'message.required'=>'Es necesario ingresar un mensaje'
+            'message.required'=>'Es necesario ingresar un mensaje',
             'g-recaptcha-response.required'=>'Es necesario completar el captcha'
         ];
         $rules=[
             'email'=>'required',
-            'message'=>'required'
+            'message'=>'required',
             'g-recaptcha-response' => ['required', new ValidRecaptcha]
         ];
 
