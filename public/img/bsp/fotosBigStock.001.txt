@@ -1,0 +1,44 @@
+OK 320922775 planos
+OK 278990308 bim/structure
+OK 323195629 estructura metálica
+OK 328287733 estribosADetalle
+OK 328284445 estructuraConcreto
+OK 313154365 cimentación
+OK 229324879 estructuraMetálicaArquitectura
+OK 332022349 roofWood
+OK 318752308 rooftopIndustrial
+OK 330773059 estructuraConcretoReal
+OK 311309659 reinforcedSteelBars
+OK 307052878 structuralWood
+OK 289831696 concreteMasonry
+OK 313719529 basePlate
+OK 2762941   steelFrameConstruction
+OK 287961793 constructionWorker
+OK 257461273 concreteBuilding
+OK 217113817 roofHouse
+OK 323649448 basePlate
+OK 315572992 boltDetail
+OK 272834776 boltDetail2
+OK 94839836 slabConcrete
+OK 256723975 armadoLongitudinal
+
+arquitectura
+OK 15682019
+OK 284277451
+OK 315789790
+OK 305323723
+264410203
+
+
+
+
+OK 170220335 precast1
+OK 68116627 doublePlateUnion
+OK 86517929 columnsScaffolding
+OK 316647859 precastWall
+OK 324788776 wareHouse1
+OK 158477345 concreteBuilding2
+OK 151242038 woodBeams
+OK 201966367 brickWall
+OK 12010442 steelFramework
+OK 329665570 cuttingSteelBeam
