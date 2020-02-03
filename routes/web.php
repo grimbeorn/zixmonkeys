@@ -35,4 +35,6 @@ Route::get('/contacto', function () {
     return view('contacto');
 });
 
+Route::post('/contact2', 'contact2Controller@send');
+
 
