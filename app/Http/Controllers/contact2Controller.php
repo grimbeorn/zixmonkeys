@@ -26,13 +26,14 @@ class contact2Controller extends Controller
         $this->validate($request, $rules, $messages);
 
         $n = $request->input('name');
-    	$c = $request->input('email');
-    	$m = $request->input('message');
+        $c = $request->input('email');
+        $m = $request->input('message');
 
-    	Mail::to('hernandomtz@gmail.com')->send(new NewContact2($n, $c, $m));
+        Mail::to('hernandomtz@gmail.com')->send(new NewContact2($n, $c, $m));
         // Mail::to('diego@barrafrancamexico.com')->send(new NewContact2($n, $c, $t, $m));
 
-    	$notification = 'gracias por su mensaje, nos contactaremos con usted en menos de 24 horas!';
-    	return back()->with(compact('notification'));
+        $notification = 'gracias por su mensaje, nos contactaremos con usted en menos de 24 horas!';
+        return back()->with(compact('notification'));
+
     }
 }
