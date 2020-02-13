@@ -25,7 +25,7 @@ class contact2Controller extends Controller
 
         $this->validate($request, $rules, $messages);
 
-        $n = $request->input('name');
+        $n = "alpha";
         $c = $request->input('email');
         $m = $request->input('message');
 
