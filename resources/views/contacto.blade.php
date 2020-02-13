@@ -53,25 +53,14 @@
           </div>
         </div>                     
         <div class="line">       
-          <!-- <div class="s-12">
-            <input name="subject" class="required subject" placeholder="Subject" title="Subject" type="text" />
-            <p class="subject-error form-error text-white">Please enter your subject.</p>
-          </div> -->
           <div class="s-12">
             <textarea id="message" name="message" class="required message" placeholder="mensaje" rows="5" cols="50" type="text" required>{{ old('message') }}</textarea>
-            
           </div>
-          <!-- <div class="s-12">
-            <input type="file" name="file[]" />                    
-          </div> -->
-
-
           <!-- full-name-field is hidden antirobot field -->
           <input name="full-name-field" type="text" id="full-name-field" class="full-name-field" />
           <div class="s-12">
             <div class="g-recaptcha" data-sitekey="6LcTaNUUAAAAAOnKCPKEP7MqxDcZVn_sr_cV2JQ2"></div>
           </div>  
-          
           <div class="s-12 button-parent">
             <button class="submit-form button border-radius text-white background-primary" type="submit">Enviar</button>
           </div>
