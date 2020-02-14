@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Mail;        
+namespace App\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;
@@ -11,7 +11,7 @@ use App\n;
 use App\c;
 use App\m;
 
-class NewContact2 extends Mailable
+class NewContact03 extends Mailable
 {
     use Queueable, SerializesModels;
 
