@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Mail\NewContact2;
+use App\Mail\NewContact03;
 use App\Http\Controllers\Input;
 use Mail;
 use App\Rules\ValidRecaptcha;
