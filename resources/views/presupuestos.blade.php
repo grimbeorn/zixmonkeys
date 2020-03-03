@@ -4,10 +4,10 @@
 
 <!-- Content -->
 <article>
-  <header class="section" data-image-src="img/parallax-01.jpg">
+  <header class="section" data-image-src="img/bsp/14.jpg">
     <div class="line text-center">        
-      <h1 class="text-dark margin-top-bottom-30 text-size-70 text-m-size-40 text-line-height-1 text-thin"><span class="text-dark">-</span> Presupuestos <span class="text-dark">-</span></h1>
-      <p class="margin-bottom-0 text-size-16 text-dark">Presupuesta ahora o ten una previsión de las necesidades de tu proyecto. </p>
+      <h1 class="text-white margin-top-bottom-30 text-size-70 text-m-size-40 text-line-height-1 text-thin"><span class="text-white">-</span> Presupuestos <span class="text-white">-</span></h1>
+      <p class="margin-bottom-0 text-size-16 text-white">Presupuesta ahora o ten una previsión de las necesidades de tu proyecto. </p>
     </div>  
   </header>
   

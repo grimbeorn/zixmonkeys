@@ -4,9 +4,12 @@
 
 <!-- Content -->
 <article>
+  <!-- <header class="section background-pink"> -->
   <header class="section background-white">
     <div class="line text-center">        
+      <!-- <h1 class="text-white margin-top-bottom-30 text-size-70 text-m-size-40 text-line-height-1 text-thin"><span class="text-white">-</span> Proyectos <span class="text-white">-</span></h1> -->
       <h1 class="text-dark margin-top-bottom-30 text-size-70 text-m-size-40 text-line-height-1 text-thin"><span class="text-dark">-</span> Proyectos <span class="text-dark">-</span></h1>
+      <!-- <p class="margin-bottom-0 text-size-16 text-white">Proyectos en las áreas arquitectónicas y civiles en México y España, en los sectores residenciales, comerciales, industriales, hosteleros y otros.<br>Igualmente tenemos proyectos enfocados en distintas áreas de la ingeniería estructural, tales como programación, planificación de obra y mecánica estructural.</p> -->
       <p class="margin-bottom-0 text-size-16 text-dark">Proyectos en las áreas arquitectónicas y civiles en México y España, en los sectores residenciales, comerciales, industriales, hosteleros y otros.<br>Igualmente tenemos proyectos enfocados en distintas áreas de la ingeniería estructural, tales como programación, planificación de obra y mecánica estructural.</p>
     </div>  
   </header>
@@ -15,7 +18,7 @@
   <div class="background-white full-width"> 
     <div class="s-12 m-6 l-five">
       <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="" data-toggle="modal" data-target="#m1">
-        <div class="image-hover-overlay background-primary">
+        <div class="image-hover-overlay background-pink">
           <div class="image-hover-overlay-content text-center padding-2x">
             <h3 class="text-white text-size-20 margin-bottom-10">Papalote</h3>
             <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural. 20T de Acero.<br>$4,500,500.00 MXN</p>  
@@ -28,7 +31,7 @@
     <!-- proyecto 02 -->
     <div class="s-12 m-6 l-five">
       <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="" data-toggle="modal" data-target="#m2">
-        <div class="image-hover-overlay background-primary">
+        <div class="image-hover-overlay background-pink">
           <div class="image-hover-overlay-content text-center padding-2x">
             <h3 class="text-white text-size-20 margin-bottom-10">Casa Sky</h3>
             <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural. 20T de Acero.<br>$4,500,500.00 MXN</p>  
@@ -42,7 +45,7 @@
     <div class="background-white full-width"> 
     <div class="s-12 m-6 l-five">
       <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="img/portfolio/portfolio-04.jpg" data-toggle="modal" data-target="#m3">
-        <div class="image-hover-overlay background-primary">
+        <div class="image-hover-overlay background-pink">
           <div class="image-hover-overlay-content text-center padding-2x">
             <h3 class="text-white text-size-20 margin-bottom-10">Obraje</h3>
             <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural. 20T de Acero.<br>$4,500,500.00 MXN</p>  
@@ -56,7 +59,7 @@
     <div class="background-white full-width"> 
     <div class="s-12 m-6 l-five">
       <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="img/portfolio/portfolio-04.jpg" data-toggle="modal" data-target="#m4">
-        <div class="image-hover-overlay background-primary">
+        <div class="image-hover-overlay background-pink">
           <div class="image-hover-overlay-content text-center padding-2x">
             <h3 class="text-white text-size-20 margin-bottom-10">Maier</h3>
             <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural. 20T de Acero.<br>$4,500,500.00 MXN</p>  
@@ -70,7 +73,7 @@
     <div class="background-white full-width"> 
     <div class="s-12 m-6 l-five">
       <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="img/portfolio/portfolio-04.jpg" data-toggle="modal" data-target="#m5">
-        <div class="image-hover-overlay background-primary">
+        <div class="image-hover-overlay background-pink">
           <div class="image-hover-overlay-content text-center padding-2x">
             <h3 class="text-white text-size-20 margin-bottom-10">Torre de Control</h3>
             <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural. 20T de Acero.<br>$4,500,500.00 MXN</p>  
@@ -84,7 +87,7 @@
     <div class="background-white full-width"> 
     <div class="s-12 m-6 l-five">
       <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="img/portfolio/portfolio-04.jpg" data-toggle="modal" data-target="#m6">
-        <div class="image-hover-overlay background-primary">
+        <div class="image-hover-overlay background-pink">
           <div class="image-hover-overlay-content text-center padding-2x">
             <h3 class="text-white text-size-20 margin-bottom-10">Coco Hotel</h3>
             <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural. 20T de Acero.<br>$4,500,500.00 MXN</p>  
@@ -98,7 +101,7 @@
     <div class="background-white full-width"> 
     <div class="s-12 m-6 l-five">
       <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="img/portfolio/portfolio-04.jpg" data-toggle="modal" data-target="#m7">
-        <div class="image-hover-overlay background-primary">
+        <div class="image-hover-overlay background-pink">
           <div class="image-hover-overlay-content text-center padding-2x">
             <h3 class="text-white text-size-20 margin-bottom-10">L'Oreal</h3>
             <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural. 20T de Acero.<br>$4,500,500.00 MXN</p>  
@@ -112,7 +115,7 @@
     <div class="background-white full-width"> 
     <div class="s-12 m-6 l-five">
       <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="img/portfolio/portfolio-04.jpg" data-toggle="modal" data-target="#m8">
-        <div class="image-hover-overlay background-primary">
+        <div class="image-hover-overlay background-pink">
           <div class="image-hover-overlay-content text-center padding-2x">
             <h3 class="text-white text-size-20 margin-bottom-10">Puerto Deportivo Baiona</h3>
             <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural. 20T de Acero.<br>$4,500,500.00 MXN</p>  
@@ -126,7 +129,7 @@
     <div class="background-white full-width"> 
     <div class="s-12 m-6 l-five">
       <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="img/portfolio/portfolio-04.jpg" data-toggle="modal" data-target="#m9">
-        <div class="image-hover-overlay background-primary">
+        <div class="image-hover-overlay background-pink">
           <div class="image-hover-overlay-content text-center padding-2x">
             <h3 class="text-white text-size-20 margin-bottom-10">Cimentación Moctezuma</h3>
             <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural. 20T de Acero.<br>$4,500,500.00 MXN</p>  
@@ -140,14 +143,14 @@
     <div class="background-white full-width"> 
       <div class="s-12 m-6 l-five">
         <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="img/portfolio/portfolio-04.jpg" data-toggle="modal" data-target="#m10">
-          <div class="image-hover-overlay background-primary">
+          <div class="image-hover-overlay background-pink">
             <div class="image-hover-overlay-content text-center padding-2x">
               <h3 class="text-white text-size-20 margin-bottom-10">Vivienda Galicia</h3>
               <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural. 20T de Acero.<br>$4,500,500.00 MXN</p>  
               <i class="icon-sli-magnifier-add icon2x text-white"></i>
             </div> 
           </div> 
-          <img class="full-img" src="img/10.vivienda01Galicia/thumb_10.jpg" alt=""/>
+          <img class="full-img" src="img/11.fotosNaveQueretaro/thumb_11.jpeg" alt=""/>
           <!-- <img class="full-img" src="img/11.fotosNaveQueretaro/thumb_11.jpg" alt=""/> -->
         </a>  
       </div>
@@ -215,16 +218,25 @@
             <li data-target="#myCarouselInd2" data-slide-to="0" class="active"></li>
             <li data-target="#myCarouselInd2" data-slide-to="1"></li>
             <li data-target="#myCarouselInd2" data-slide-to="2"></li>
+            <li data-target="#myCarouselInd2" data-slide-to="3"></li>
+            <li data-target="#myCarouselInd2" data-slide-to="4"></li>
+            <li data-target="#myCarouselInd2" data-slide-to="5"></li>
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="first-slide" src="img/portfolio/portfolio-06.jpg" alt="First slide">
+              <img class="first-slide" src="img/02.fotosCasaSky/01.jpg" alt="First slide">
             </div>
             <div class="carousel-item">
-              <img class="second-slide" src="img/portfolio/portfolio-07.jpg" alt="Second slide">
+              <img class="second-slide" src="img/02.fotosCasaSky/02.jpg" alt="Second slide">
             </div>
             <div class="carousel-item">
-              <img class="third-slide" src="img/portfolio/portfolio-08.jpg" alt="Third slide">
+              <img class="third-slide" src="img/02.fotosCasaSky/03.jpg" alt="Third slide">
+            </div>
+            <div class="carousel-item">
+              <img class="third-slide" src="img/02.fotosCasaSky/05.jpg" alt="Third slide">
+            </div>
+            <div class="carousel-item">
+              <img class="third-slide" src="img/02.fotosCasaSky/06.jpg" alt="Third slide">
             </div>
           </div>
           <a class="carousel-control-prev" href="#myCarouselInd2" role="button" data-slide="prev">
@@ -262,13 +274,13 @@
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="first-slide" src="img/portfolio/portfolio-03.jpg" alt="First slide">
+              <img class="first-slide" src="img/03.fotosObraje/01.jpg" alt="First slide">
             </div>
             <div class="carousel-item">
-              <img class="second-slide" src="img/portfolio/portfolio-04.jpg" alt="Second slide">
+              <img class="second-slide" src="img/03.fotosObraje/11.jpg" alt="Second slide">
             </div>
             <div class="carousel-item">
-              <img class="third-slide" src="img/portfolio/portfolio-05.jpg" alt="Third slide">
+              <img class="third-slide" src="img/03.fotosObraje/12.jpg" alt="Third slide">
             </div>
           </div>
           <a class="carousel-control-prev" href="#myCarouselInd3" role="button" data-slide="prev">
@@ -306,13 +318,13 @@
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="first-slide" src="img/portfolio/portfolio-03.jpg" alt="First slide">
+              <img class="first-slide" src="img/04.fotosMaier/06.jpg" alt="First slide">
             </div>
             <div class="carousel-item">
-              <img class="second-slide" src="img/portfolio/portfolio-04.jpg" alt="Second slide">
+              <img class="second-slide" src="img/04.fotosMaier/13.jpg" alt="Second slide">
             </div>
             <div class="carousel-item">
-              <img class="third-slide" src="img/portfolio/portfolio-05.jpg" alt="Third slide">
+              <img class="third-slide" src="img/04.fotosMaier/19.jpg" alt="Third slide">
             </div>
           </div>
           <a class="carousel-control-prev" href="#myCarouselInd4" role="button" data-slide="prev">
@@ -345,19 +357,19 @@
         <div id="myCarouselInd5" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
             <li data-target="#myCarouselInd5" data-slide-to="0" class="active"></li>
-            <li data-target="#myCarouselInd5" data-slide-to="1"></li>
-            <li data-target="#myCarouselInd5" data-slide-to="2"></li>
+            <!-- <li data-target="#myCarouselInd5" data-slide-to="1"></li>
+            <li data-target="#myCarouselInd5" data-slide-to="2"></li> -->
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="first-slide" src="img/portfolio/portfolio-03.jpg" alt="First slide">
+              <img class="first-slide" src="img/05.fotosTorreControl/01.jpg" alt="First slide">
+            </div>
+            <!-- <div class="carousel-item">
+              <img class="second-slide" src="img/05.fotosTorreControl/portfolio-04.jpg" alt="Second slide">
             </div>
             <div class="carousel-item">
-              <img class="second-slide" src="img/portfolio/portfolio-04.jpg" alt="Second slide">
-            </div>
-            <div class="carousel-item">
-              <img class="third-slide" src="img/portfolio/portfolio-05.jpg" alt="Third slide">
-            </div>
+              <img class="third-slide" src="img/05.fotosTorreControl/portfolio-05.jpg" alt="Third slide">
+            </div> -->
           </div>
           <a class="carousel-control-prev" href="#myCarouselInd5" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -394,13 +406,13 @@
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="first-slide" src="img/portfolio/portfolio-03.jpg" alt="First slide">
+              <img class="first-slide" src="img/06.fotosCocoHotel/01.jpg" alt="First slide">
             </div>
             <div class="carousel-item">
-              <img class="second-slide" src="img/portfolio/portfolio-04.jpg" alt="Second slide">
+              <img class="second-slide" src="img/06.fotosCocoHotel/02.jpg" alt="Second slide">
             </div>
             <div class="carousel-item">
-              <img class="third-slide" src="img/portfolio/portfolio-05.jpg" alt="Third slide">
+              <img class="third-slide" src="img/06.fotosCocoHotel/06.jpg" alt="Third slide">
             </div>
           </div>
           <a class="carousel-control-prev" href="#myCarouselInd6" role="button" data-slide="prev">
@@ -438,13 +450,13 @@
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="first-slide" src="img/portfolio/portfolio-03.jpg" alt="First slide">
+              <img class="first-slide" src="img/07.fotosLOreal/03.jpg" alt="First slide">
             </div>
             <div class="carousel-item">
-              <img class="second-slide" src="img/portfolio/portfolio-04.jpg" alt="Second slide">
+              <img class="second-slide" src="img/07.fotosLOreal/04.jpg" alt="Second slide">
             </div>
             <div class="carousel-item">
-              <img class="third-slide" src="img/portfolio/portfolio-05.jpg" alt="Third slide">
+              <img class="third-slide" src="img/07.fotosLOreal/02.jpg" alt="Third slide">
             </div>
           </div>
           <a class="carousel-control-prev" href="#myCarouselInd7" role="button" data-slide="prev">
@@ -482,13 +494,13 @@
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="first-slide" src="img/portfolio/portfolio-03.jpg" alt="First slide">
+              <img class="first-slide" src="img/08.fotosPuertoDeportivoBaiona/02.png" alt="First slide">
             </div>
             <div class="carousel-item">
-              <img class="second-slide" src="img/portfolio/portfolio-04.jpg" alt="Second slide">
+              <img class="second-slide" src="img/08.fotosPuertoDeportivoBaiona/03.png" alt="Second slide">
             </div>
             <div class="carousel-item">
-              <img class="third-slide" src="img/portfolio/portfolio-05.jpg" alt="Third slide">
+              <img class="third-slide" src="img/08.fotosPuertoDeportivoBaiona/04.png" alt="Third slide">
             </div>
           </div>
           <a class="carousel-control-prev" href="#myCarouselInd8" role="button" data-slide="prev">
@@ -523,16 +535,20 @@
             <li data-target="#myCarouselInd9" data-slide-to="0" class="active"></li>
             <li data-target="#myCarouselInd9" data-slide-to="1"></li>
             <li data-target="#myCarouselInd9" data-slide-to="2"></li>
+            <li data-target="#myCarouselInd9" data-slide-to="3"></li>
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="first-slide" src="img/portfolio/portfolio-03.jpg" alt="First slide">
+              <img class="first-slide" src="img/09.fotosCimentacionMoctezuma/02.jpeg" alt="First slide">
             </div>
             <div class="carousel-item">
-              <img class="second-slide" src="img/portfolio/portfolio-04.jpg" alt="Second slide">
+              <img class="second-slide" src="img/09.fotosCimentacionMoctezuma/04.jpeg" alt="Second slide">
             </div>
             <div class="carousel-item">
-              <img class="third-slide" src="img/portfolio/portfolio-05.jpg" alt="Third slide">
+              <img class="third-slide" src="img/09.fotosCimentacionMoctezuma/06.jpeg" alt="Third slide">
+            </div>
+            <div class="carousel-item">
+              <img class="third-slide" src="img/09.fotosCimentacionMoctezuma/07.jpeg" alt="Third slide">
             </div>
           </div>
           <a class="carousel-control-prev" href="#myCarouselInd9" role="button" data-slide="prev">
@@ -567,16 +583,20 @@
             <li data-target="#myCarouselInd10" data-slide-to="0" class="active"></li>
             <li data-target="#myCarouselInd10" data-slide-to="1"></li>
             <li data-target="#myCarouselInd10" data-slide-to="2"></li>
+            <li data-target="#myCarouselInd10" data-slide-to="3"></li>
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="first-slide" src="img/portfolio/portfolio-03.jpg" alt="First slide">
+              <img class="first-slide" src="img/11.fotosNaveQueretaro/01.jpeg" alt="First slide">
             </div>
             <div class="carousel-item">
-              <img class="second-slide" src="img/portfolio/portfolio-04.jpg" alt="Second slide">
+              <img class="second-slide" src="img/11.fotosNaveQueretaro/02.jpeg" alt="Second slide">
             </div>
             <div class="carousel-item">
-              <img class="third-slide" src="img/portfolio/portfolio-05.jpg" alt="Third slide">
+              <img class="third-slide" src="img/11.fotosNaveQueretaro/04.jpeg" alt="Third slide">
+            </div>
+            <div class="carousel-item">
+              <img class="third-slide" src="img/11.fotosNaveQueretaro/05.jpeg" alt="Third slide">
             </div>
           </div>
           <a class="carousel-control-prev" href="#myCarouselInd10" role="button" data-slide="prev">

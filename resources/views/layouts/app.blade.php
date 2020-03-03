@@ -48,7 +48,6 @@
   <body class="size-1140 primary-color-orange">
     <!-- Page overlay with fade out effect after page load. Try to change class background-dark to another color (for example white or primary color) -->
     <div id="page-overlay" class="background-white"></div>
-    
     <div id="page-wrapper">
       <!-- HEADER -->
       <header role="banner" class="position-absolute margin-top-30 margin-m-top-0 margin-s-top-0">    
@@ -70,7 +69,6 @@
               <p class="nav-button"></p>
             </div>
             <div class="top-nav right">
-              
               <ul class="right chevron">
                 <li><a href="/zixmonkeys">ZixMonkeys</a></li>
                 <li><a href="/proyectos">Proyectos</a></li>
@@ -107,10 +105,13 @@
               <div class="s-12 m-12 l-3 margin-m-bottom-30">
                 <h3 class="text-size-16">Dirección</h3>
                 <p class="text-size-14">
-                  Estado de México, México<br>
+                  Ciudad de México, México
                 </p>
                 <p class="text-size-14">
-                   A Coruña, España<br>
+                  Querétaro, México
+                </p>
+                <p class="text-size-14">
+                   Vigo, España
                 </p>                
               </div>
               <!-- Collumn 2 -->
