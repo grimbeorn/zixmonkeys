@@ -4,26 +4,29 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>ZixMonkeys - Ingeniería Estructural</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+
+
     <link rel="shortcut icon" type="image/png" href="favicon.PNG">
     <link rel="stylesheet" href="css/components.css">
     <link rel="stylesheet" href="css/icons.css">
     <link rel="stylesheet" href="css/responsee.css">
+    <!-- OWL -->
     <link rel="stylesheet" href="owl-carousel/owl.carousel.css">
     <link rel="stylesheet" href="owl-carousel/owl.theme.css">
     <link rel="stylesheet" href="css/lightcase.css">
     <!-- CUSTOM STYLE -->      
     <link rel="stylesheet" href="css/template-style.css">
-    <link href="https://fonts.googleapis.com/css?family=Work+Sans:100,400,600,900&subset=latin-ext" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans:100,400,600,900&subset=latin-ext" rel="stylesheet">
     <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
     <script type="text/javascript" src="js/jquery-ui.min.js"></script> 
+    <script type="text/javascript" src="js/validation.js"></script>
 
-    <script type="text/javascript" src="js/validation.js"></script> 
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
     {!! htmlScriptTagJsApi(['action' => 'homepage']) !!}
-
-
-
   </head>
   
   <!--
@@ -60,8 +63,6 @@
               <!-- Logo version after sticky nav -->
               <!-- <img class="logo-after" src="img/logo-dark.png"> -->
               <img class="logo-after" src="img/monkey_005.png" alt="" >
-
-
             </a>
           </div>
           <div class="s-12 l-10">
@@ -97,71 +98,7 @@
           <a class="margin-right-10" target="_blank" href="https://www.instagram.com"><i class="icon-instagram_circle text-size-30"></i> <span class="text-strong text-white hide-s hide-m">INSTAGRAM</span></a>
           <a target="_blank" href="https://www.linkedin.com"><i class="icon-linked_in_circle text-size-30"></i> <span class="text-strong text-white hide-s hide-m">LINKEDIN</span></a>                                                                         
         </div>
-
-        <!-- Images -->
-        <!-- <section class="full-width">
-          <div class="s-4 m-3 l-1">
-            <a class="image-with-hover-overlay image-hover-zoom" data-rel="lightcase:portfolio" href="img/bsp/11.jpg">
-              <img src="img/bsp/11_002.jpg" alt="">
-            </a>
-          </div>
-          <div class="s-4 m-3 l-1">
-            <a class="image-with-hover-overlay image-hover-zoom" data-rel="lightcase:portfolio" href="img/proyectos/1_2.jpg">
-              <img src="img/portfolio/thumb-02.jpg" alt="">
-            </a>
-          </div>
-          <div class="s-4 m-3 l-1">
-            <a class="image-with-hover-overlay image-hover-zoom" data-rel="lightcase:portfolio" href="img/proyectos/ff2.jpg">
-              <img src="img/portfolio/thumb-03.jpg" alt="">
-            </a>
-          </div>
-          <div class="s-4 m-3 l-1">
-            <a class="image-with-hover-overlay image-hover-zoom" data-rel="lightcase:portfolio" href="img/proyectos/gg3.jpg">
-              <img src="img/portfolio/thumb-04.jpg" alt="">
-            </a>
-          </div>
-          <div class="s-4 m-3 l-1">
-            <a class="image-with-hover-overlay image-hover-zoom" data-rel="lightcase:portfolio" href="img/proyectos/6_3.jpg">
-              <img src="img/portfolio/thumb-05.jpg" alt="">
-            </a>
-          </div>
-          <div class="s-4 m-3 l-1">
-            <a class="image-with-hover-overlay image-hover-zoom" data-rel="lightcase:portfolio" href="img/proyectos/4.jpg">
-              <img src="img/portfolio/thumb-06.jpg" alt="">
-            </a>
-          </div>
-          <div class="s-4 m-3 l-1">
-            <a class="image-with-hover-overlay image-hover-zoom" data-rel="lightcase:portfolio" href="img/proyectos/cc11.jpg">
-              <img src="img/portfolio/thumb-07.jpg" alt="">
-            </a>
-          </div>
-          <div class="s-4 m-3 l-1">
-            <a class="image-with-hover-overlay image-hover-zoom" data-rel="lightcase:portfolio" href="img/proyectos/DSCF0120.jpg">
-              <img src="img/portfolio/thumb-08.jpg" alt="">
-            </a>
-          </div>
-          <div class="s-4 m-3 l-1">
-            <a class="image-with-hover-overlay image-hover-zoom" data-rel="lightcase:portfolio" href="img/proyectos/2_5.jpg">
-              <img src="img/portfolio/thumb-09.jpg" alt="">
-            </a>
-          </div>
-          <div class="s-4 m-3 l-1">
-            <a class="image-with-hover-overlay image-hover-zoom" data-rel="lightcase:portfolio" href="img/proyectos/03.jpg">
-              <img src="img/portfolio/thumb-10.jpg" alt="">
-            </a>
-          </div>
-          <div class="s-4 m-3 l-1">
-            <a class="image-with-hover-overlay image-hover-zoom" data-rel="lightcase:portfolio" href="img/proyectos/4_5.jpg">
-              <img src="img/portfolio/thumb-11.jpg" alt="">
-            </a>
-          </div>
-          <div class="s-4 m-3 l-1">
-            <a class="image-with-hover-overlay image-hover-zoom" data-rel="lightcase:portfolio" href="img/proyectos/4_13.jpg">
-              <img src="img/portfolio/thumb-12.jpg" alt="">
-            </a>
-          </div>
-        </section> -->
-               
+              
         <!-- Main Footer -->
         <section class="section-small-padding text-center background-dark full-width">
           <div class="line">
@@ -206,28 +143,29 @@
         <section class="padding background-dark full-width">
           <div class="text-center">
             <p class="text-size-12">Copyright 2019, Vision Design - Orange Code</p>
-            <p class="text-size-12">Do not use the images in your website.</p>
           </div>
         </section>
       </footer>
     </div>
+    
     <script type="text/javascript" src="js/responsee.js"></script>
     <script type="text/javascript" src="js/plugins.min.js"></script>
+    <!-- OWL --> 
     <script type="text/javascript" src="owl-carousel/owl.carousel.js"></script>
     <script type="text/javascript" src="js/template-scripts.js"></script> 
-    <script type="text/javascript">
-      // typed
-      $(function(){
-        $("#typed").typed({
-            stringsElement: $('#typed-strings'),
-            typeSpeed: 80,
-            backDelay: 3000,
-            loop: true,
-            contentType: 'text',
-            loopCount: false,
-        });
-      });
-    </script>
+    // <script type="text/javascript">
+    //   // typed
+    //   $(function(){
+    //     $("#typed").typed({
+    //         stringsElement: $('#typed-strings'),
+    //         typeSpeed: 80,
+    //         backDelay: 3000,
+    //         loop: true,
+    //         contentType: 'text',
+    //         loopCount: false,
+    //     });
+    //   });
+    // </script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157551490-1"></script>
@@ -237,6 +175,11 @@
       gtag('js', new Date());
       gtag('config', 'UA-157551490-1');
     </script>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
 
   </body>
 </html>

@@ -62,7 +62,6 @@
         <a class="tab-label">Reformas y remodelación</a>
         <div class="tab-content lightbox-gallery">
           <div class="margin">
-
             <div class="s-12 m-12 l-6">
               <div class="margin">
                 <div class="s-12 m-12 l-6">              
