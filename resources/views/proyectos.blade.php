@@ -105,7 +105,7 @@
             <i class="icon-sli-magnifier-add icon2x text-white"></i>
           </div> 
         </div> 
-        <img class="full-img" src="img/portfolio/thumb-02.jpg" alt=""/>
+        <img class="full-img" src="img/07.fotosLOreal/thumb_07.jpg" alt=""/>
       </a>  
     </div>
     <!-- proyecto 08 -->
@@ -119,7 +119,7 @@
             <i class="icon-sli-magnifier-add icon2x text-white"></i>
           </div> 
         </div> 
-        <img class="full-img" src="img/portfolio/thumb-02.jpg" alt=""/>
+        <img class="full-img" src="img/08.fotosPuertoDeportivoBaiona/thumb_08.jpg" alt=""/>
       </a>  
     </div>
     <!-- proyecto 09 -->
@@ -133,7 +133,7 @@
             <i class="icon-sli-magnifier-add icon2x text-white"></i>
           </div> 
         </div> 
-        <img class="full-img" src="img/portfolio/thumb-02.jpg" alt=""/>
+        <img class="full-img" src="img/09.fotosCimentacionMoctezuma/thumb_09.jpeg" alt=""/>
       </a>  
     </div>
     <!-- proyecto 10 -->
@@ -147,7 +147,8 @@
               <i class="icon-sli-magnifier-add icon2x text-white"></i>
             </div> 
           </div> 
-          <img class="full-img" src="img/portfolio/thumb-02.jpg" alt=""/>
+          <img class="full-img" src="img/10.vivienda01Galicia/thumb_10.jpg" alt=""/>
+          <!-- <img class="full-img" src="img/11.fotosNaveQueretaro/thumb_11.jpg" alt=""/> -->
         </a>  
       </div>
     </div>
