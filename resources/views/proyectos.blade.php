@@ -44,7 +44,7 @@
     <!-- proyecto 03 -->
     <div class="background-white full-width"> 
     <div class="s-12 m-6 l-five">
-      <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="img/portfolio/portfolio-04.jpg" data-toggle="modal" data-target="#m3">
+      <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="" data-toggle="modal" data-target="#m3">
         <div class="image-hover-overlay background-pink">
           <div class="image-hover-overlay-content text-center padding-2x">
             <h3 class="text-white text-size-20 margin-bottom-10">Obraje</h3>
@@ -58,7 +58,7 @@
     <!-- proyecto 04 -->
     <div class="background-white full-width"> 
     <div class="s-12 m-6 l-five">
-      <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="img/portfolio/portfolio-04.jpg" data-toggle="modal" data-target="#m4">
+      <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="" data-toggle="modal" data-target="#m4">
         <div class="image-hover-overlay background-pink">
           <div class="image-hover-overlay-content text-center padding-2x">
             <h3 class="text-white text-size-20 margin-bottom-10">Maier</h3>
@@ -72,7 +72,7 @@
     <!-- proyecto 05 -->
     <div class="background-white full-width"> 
     <div class="s-12 m-6 l-five">
-      <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="img/portfolio/portfolio-04.jpg" data-toggle="modal" data-target="#m5">
+      <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="" data-toggle="modal" data-target="#m5">
         <div class="image-hover-overlay background-pink">
           <div class="image-hover-overlay-content text-center padding-2x">
             <h3 class="text-white text-size-20 margin-bottom-10">Torre de Control</h3>
@@ -86,7 +86,7 @@
     <!-- proyecto 06 -->
     <div class="background-white full-width"> 
     <div class="s-12 m-6 l-five">
-      <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="img/portfolio/portfolio-04.jpg" data-toggle="modal" data-target="#m6">
+      <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="" data-toggle="modal" data-target="#m6">
         <div class="image-hover-overlay background-pink">
           <div class="image-hover-overlay-content text-center padding-2x">
             <h3 class="text-white text-size-20 margin-bottom-10">Coco Hotel</h3>
@@ -100,7 +100,7 @@
     <!-- proyecto 07 -->
     <div class="background-white full-width"> 
     <div class="s-12 m-6 l-five">
-      <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="img/portfolio/portfolio-04.jpg" data-toggle="modal" data-target="#m7">
+      <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="" data-toggle="modal" data-target="#m7">
         <div class="image-hover-overlay background-pink">
           <div class="image-hover-overlay-content text-center padding-2x">
             <h3 class="text-white text-size-20 margin-bottom-10">L'Oreal</h3>
@@ -128,7 +128,7 @@
     <!-- proyecto 09 -->
     <div class="background-white full-width"> 
     <div class="s-12 m-6 l-five">
-      <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="img/portfolio/portfolio-04.jpg" data-toggle="modal" data-target="#m9">
+      <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="" data-toggle="modal" data-target="#m9">
         <div class="image-hover-overlay background-pink">
           <div class="image-hover-overlay-content text-center padding-2x">
             <h3 class="text-white text-size-20 margin-bottom-10">Cimentación Moctezuma</h3>
@@ -142,7 +142,7 @@
     <!-- proyecto 10 -->
     <div class="background-white full-width"> 
       <div class="s-12 m-6 l-five">
-        <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="img/portfolio/portfolio-04.jpg" data-toggle="modal" data-target="#m10">
+        <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="" data-toggle="modal" data-target="#m10">
           <div class="image-hover-overlay background-pink">
             <div class="image-hover-overlay-content text-center padding-2x">
               <h3 class="text-white text-size-20 margin-bottom-10">Nave Querétaro</h3>
