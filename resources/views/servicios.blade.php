@@ -34,15 +34,14 @@
                 <div class="line">
                   <div class="margin2x">
                     <div class="s-12 m-12 l-6 text-right margin-m-bottom-40">  
-                      <h2 class="text-dark text-thin headline text-s-size-40 text-size-50 text-line-height-1 margin-bottom-30">Duis autem vel<br class="hide-m hide-s"> eum iriure dolor</h2>
+                      <h2 class="text-dark text-thin headline text-s-size-40 text-size-50 text-line-height-1 margin-bottom-30">Proyectos de Ingeniería Estructural<br class="hide-m hide-s"> </h2>
                       <p class="text-dark">
-                      Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
-                      Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+                      En zixMonkeys realizamos proyectos estructurales de gran calidad, orientados siempre a la satisfacción de clientes, constructores y usuarios finales.
                       </p> 
                     </div>
                     <div class="s-12 m-12 l-6">
                       <p class="text-dark text-size-60 text-m-size-50 text-s-size-40 text-extra-strong text-line-height-1">
-                      Texto de PROYECTOS ESTRUCTURALES<span class="text-primary">.</span>
+                      La estructura es el alma de la arquitectura<span class="text-primary">.</span>
                       </p> 
                     </div>
                   </div>  
@@ -63,15 +62,14 @@
                 <div class="line">
                   <div class="margin2x">
                     <div class="s-12 m-12 l-6 text-right margin-m-bottom-40">  
-                      <h2 class="text-dark text-thin headline text-s-size-40 text-size-50 text-line-height-1 margin-bottom-30">Duis autem vel<br class="hide-m hide-s"> eum iriure dolor</h2>
+                      <h2 class="text-dark text-thin headline text-s-size-40 text-size-50 text-line-height-1 margin-bottom-30">Reformas y remodelaciones<br class="hide-m hide-s"> </h2>
                       <p class="text-dark">
-                       Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
-                      Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+                       Remodelar y reformar obras siempre es una labor de detalle y dedicación que en zixMonkeys realizamos con pasión y sentido constructivo.
                       </p> 
                     </div>
                     <div class="s-12 m-12 l-6">
                       <p class="text-dark text-size-60 text-m-size-50 text-s-size-40 text-extra-strong text-line-height-1">
-                      Texto de REFORMAS Y REMODELACIONES<span class="text-primary">.</span>
+                      Renovar: crear de nuevo<span class="text-primary">.</span>
                       </p> 
                     </div>
                   </div>  
@@ -91,15 +89,15 @@
                 <div class="line">
                   <div class="margin2x">
                     <div class="s-12 m-12 l-6 text-right margin-m-bottom-40">  
-                      <h2 class="text-dark text-thin headline text-s-size-40 text-size-50 text-line-height-1 margin-bottom-30">Duis autem vel<br class="hide-m hide-s"> eum iriure dolor</h2>
+                      <h2 class="text-dark text-thin headline text-s-size-40 text-size-50 text-line-height-1 margin-bottom-30">Recálculos<br class="hide-m hide-s"> </h2>
                       <p class="text-dark">
-                       Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
-                      Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+                       Realizamos labores de recálculos, habitualmente orientados a la optimización de la estructura. 
+                       El abordaje de este tipo de trabajos se hace siempre con miras a que el cliente tenga unas cuantías menores a las presentadas originalmente, de tal manera que se pueda justificar económicamente la inversión en dicho trabajo. Si duda una actividad en la que hace falta la interacción.
                       </p> 
                     </div>
                     <div class="s-12 m-12 l-6">
                       <p class="text-dark text-size-60 text-m-size-50 text-s-size-40 text-extra-strong text-line-height-1">
-                      Texto de RECÁLCULOS<span class="text-primary">.</span>
+                      Optimización de la estructura<span class="text-primary">.</span>
                       </p> 
                     </div>
                   </div>  
@@ -119,15 +117,14 @@
                 <div class="line">
                   <div class="margin2x">
                     <div class="s-12 m-12 l-6 text-right margin-m-bottom-40">  
-                      <h2 class="text-dark text-thin headline text-s-size-40 text-size-50 text-line-height-1 margin-bottom-30">Duis autem vel<br class="hide-m hide-s"> eum iriure dolor</h2>
+                      <h2 class="text-dark text-thin headline text-s-size-40 text-size-50 text-line-height-1 margin-bottom-30">Fichas Técnicas<br class="hide-m hide-s"></h2>
                       <p class="text-dark">
-                      Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
-                      Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+                      Asesoramos a las distintas industrias relacionadas con las estructuras, tales como prefabricadores, cerramientos, madera, concreteras, productores de acero y otros materiales (polímeros, cristales) para emitir las fichas técnicas necesarias para sus catálogos de productos.
                       </p> 
                     </div>
                     <div class="s-12 m-12 l-6">
                       <p class="text-dark text-size-60 text-m-size-50 text-s-size-40 text-extra-strong text-line-height-1">
-                      Texto de FICHAS TÉCNICAS<span class="text-primary">.</span>
+                      Sopoerte para catálogo de productos<span class="text-primary">.</span>
                       </p> 
                     </div>
                   </div>  
@@ -147,15 +144,14 @@
                 <div class="line">
                   <div class="margin2x">
                     <div class="s-12 m-12 l-6 text-right margin-m-bottom-40">  
-                      <h2 class="text-dark text-thin headline text-s-size-40 text-size-50 text-line-height-1 margin-bottom-30">Duis autem vel<br class="hide-m hide-s"> eum iriure dolor</h2>
+                      <h2 class="text-dark text-thin headline text-s-size-40 text-size-50 text-line-height-1 margin-bottom-30">Informes<br class="hide-m hide-s"></h2>
                       <p class="text-dark">
-                      Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
-                      Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+                      Realizamos levantamientos en sitio para dar parte de manera procedimentada y documentada de estructuras de todo tipo. Para esto trabajamos con un amplio número de proveedores de servicios como topógrafos, laboratorios de calidad, maquinaria y equipo y otros; necesarios para emitir de manera precisa y procesada la información.
                       </p> 
                     </div>
                     <div class="s-12 m-12 l-6">
                       <p class="text-dark text-size-60 text-m-size-50 text-s-size-40 text-extra-strong text-line-height-1">
-                      Texto de INFORMES<span class="text-primary">.</span>
+                      Soporte documental<span class="text-primary">.</span>
                       </p> 
                     </div>
                   </div>  
@@ -175,15 +171,15 @@
                 <div class="line">
                   <div class="margin2x">
                     <div class="s-12 m-12 l-6 text-right margin-m-bottom-40">  
-                      <h2 class="text-dark text-thin headline text-s-size-40 text-size-50 text-line-height-1 margin-bottom-30">Duis autem vel<br class="hide-m hide-s"> eum iriure dolor</h2>
+                      <h2 class="text-dark text-thin headline text-s-size-40 text-size-50 text-line-height-1 margin-bottom-30">Asistencia en Obra</h2>
                       <p class="text-dark">
-                      olutpat. 
-                      Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+                      Asesoramos en la fase de obra a los distintos proyectos relacionados con las estructuras. 
+                      Principalmente para resolver problemas que pudiesen surgir de modificaciones durante el avance de proyectos, interferencias, imprevistos, mejoramientos, etc
                       </p> 
                     </div>
                     <div class="s-12 m-12 l-6">
                       <p class="text-dark text-size-60 text-m-size-50 text-s-size-40 text-extra-strong text-line-height-1">
-                      Texto de ASISTENCIA EN OBRA<span class="text-primary">.</span>
+                      Aliados en la obra<span class="text-primary">.</span>
                       </p> 
                     </div>
                   </div>  
