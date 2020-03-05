@@ -177,13 +177,13 @@
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="first-slide" src="img/01.fotosPapalote/SAM_0541.jpg" alt="First slide">
+              <img class="first-slide" src="img/01.fotosPapalote/01.jpg" alt="First slide">
             </div>
             <div class="carousel-item">
-              <img class="second-slide" src="img/01.fotosPapalote/SAM_0528.jpg" alt="Second slide">
+              <img class="second-slide" src="img/01.fotosPapalote/02.jpg" alt="Second slide">
             </div>
             <div class="carousel-item">
-              <img class="third-slide" src="img/01.fotosPapalote/SAM_0507.jpg" alt="Third slide">
+              <img class="third-slide" src="img/01.fotosPapalote/03.jpg" alt="Third slide">
             </div>
           </div>
           <a class="carousel-control-prev" href="#myCarouselInd1" role="button" data-slide="prev">
