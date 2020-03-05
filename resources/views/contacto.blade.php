@@ -19,13 +19,14 @@
       <div class="s-12 m-12 l-6 text-center">
         <div class="padding-2x">
           <i class="icon-sli-location-pin text-dark text-size-30 center"></i>
-          <h2 class="text-size-20 margin-bottom-0 text-dark">Company Address</h2>                
-          <p>Estado de México, México</p>
-          <p>Coruña, España</p>
+          <h2 class="text-size-20 margin-bottom-0 text-dark">Company Address</h2><br>                
+          <p>Ciudad de México, México</p>
+          <p>Querétaro, México</p>
+          <p>Madrid, España</p>
           <i class="icon-sli-envelope text-dark text-size-30 center margin-top-20"></i>
           <h2 class="text-size-20 margin-bottom-0 text-dark">E-mail</h2>                
-          <a class="text-primary-hover" href="mailto:contact@sampledomain.com">contact@zixmonkeys.com</a><br>
-          <a class="text-primary-hover" href="mailto:office@sampledomain.com">office@zixmonkeys.com</a>
+          <a class="text-primary-hover" href="mailto:contact@zixmonkeys.com">contact@zixmonkeys.com</a><br>
+          <a class="text-primary-hover" href="mailto:office@zixmonkeys.com">office@zixmonkeys.com</a>
           <i class="icon-sli-earphones-alt text-dark text-size-30 center margin-top-20"></i>
           <h2 class="text-size-20 margin-bottom-0 text-dark">Phone Numbers</h2>                
           <p>+34 655 715 199</p>

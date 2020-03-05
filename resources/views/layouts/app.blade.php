@@ -112,7 +112,7 @@
                   Querétaro, México
                 </p>
                 <p class="text-size-14">
-                   Vigo, España
+                   Madrid, España
                 </p>                
               </div>
               <!-- Collumn 2 -->
