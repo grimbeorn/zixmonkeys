@@ -21,7 +21,7 @@
         <div class="image-hover-overlay background-pink">
           <div class="image-hover-overlay-content text-center padding-2x">
             <h3 class="text-white text-size-20 margin-bottom-10">Papalote</h3>
-            <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural. 20T de Acero.<br>$4,500,500.00 MXN</p>  
+            <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural<br></p>  
             <i class="icon-sli-magnifier-add icon2x text-white"></i>
           </div> 
         </div> 
@@ -34,7 +34,7 @@
         <div class="image-hover-overlay background-pink">
           <div class="image-hover-overlay-content text-center padding-2x">
             <h3 class="text-white text-size-20 margin-bottom-10">Casa Sky</h3>
-            <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural. 20T de Acero.<br>$4,500,500.00 MXN</p>  
+            <p class="text-white text-size-14 margin-bottom-20">Diseño Esctructural<br></p>  
             <i class="icon-sli-magnifier-add icon2x text-white"></i>
           </div> 
         </div> 
@@ -48,7 +48,7 @@
         <div class="image-hover-overlay background-pink">
           <div class="image-hover-overlay-content text-center padding-2x">
             <h3 class="text-white text-size-20 margin-bottom-10">Obraje</h3>
-            <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural. 20T de Acero.<br>$4,500,500.00 MXN</p>  
+            <p class="text-white text-size-14 margin-bottom-20">Diseño y Proyecto Estructural<br></p>  
             <i class="icon-sli-magnifier-add icon2x text-white"></i>
           </div> 
         </div> 
@@ -62,7 +62,7 @@
         <div class="image-hover-overlay background-pink">
           <div class="image-hover-overlay-content text-center padding-2x">
             <h3 class="text-white text-size-20 margin-bottom-10">Maier</h3>
-            <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural. 20T de Acero.<br>$4,500,500.00 MXN</p>  
+            <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural<br></p>  
             <i class="icon-sli-magnifier-add icon2x text-white"></i>
           </div> 
         </div> 
@@ -76,7 +76,7 @@
         <div class="image-hover-overlay background-pink">
           <div class="image-hover-overlay-content text-center padding-2x">
             <h3 class="text-white text-size-20 margin-bottom-10">Torre de Control</h3>
-            <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural. 20T de Acero.<br>$4,500,500.00 MXN</p>  
+            <p class="text-white text-size-14 margin-bottom-20">Diseño Estructural<br></p>  
             <i class="icon-sli-magnifier-add icon2x text-white"></i>
           </div> 
         </div> 
@@ -90,7 +90,7 @@
         <div class="image-hover-overlay background-pink">
           <div class="image-hover-overlay-content text-center padding-2x">
             <h3 class="text-white text-size-20 margin-bottom-10">Coco Hotel</h3>
-            <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural. 20T de Acero.<br>$4,500,500.00 MXN</p>  
+            <p class="text-white text-size-14 margin-bottom-20">Anteproyecto Estructural<br></p>  
             <i class="icon-sli-magnifier-add icon2x text-white"></i>
           </div> 
         </div> 
@@ -104,7 +104,7 @@
         <div class="image-hover-overlay background-pink">
           <div class="image-hover-overlay-content text-center padding-2x">
             <h3 class="text-white text-size-20 margin-bottom-10">L'Oreal</h3>
-            <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural. 20T de Acero.<br>$4,500,500.00 MXN</p>  
+            <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural<br></p>  
             <i class="icon-sli-magnifier-add icon2x text-white"></i>
           </div> 
         </div> 
@@ -114,15 +114,15 @@
     <!-- proyecto 08 -->
     <div class="background-white full-width"> 
     <div class="s-12 m-6 l-five">
-      <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="img/portfolio/portfolio-04.jpg" data-toggle="modal" data-target="#m8">
+      <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="" data-toggle="modal" data-target="#m8">
         <div class="image-hover-overlay background-pink">
           <div class="image-hover-overlay-content text-center padding-2x">
-            <h3 class="text-white text-size-20 margin-bottom-10">Puerto Deportivo Baiona</h3>
-            <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural. 20T de Acero.<br>$4,500,500.00 MXN</p>  
+            <h3 class="text-white text-size-20 margin-bottom-10">Cimentación Cementos Fortaleza</h3>
+            <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural y Asistencia en Obra<br></p>  
             <i class="icon-sli-magnifier-add icon2x text-white"></i>
           </div> 
         </div> 
-        <img class="full-img" src="img/08.fotosPuertoDeportivoBaiona/thumb_08.jpg" alt=""/>
+        <img class="full-img" src="img/13.cimentacionFortaleza/thumb_13.jpeg" alt=""/>
       </a>  
     </div>
     <!-- proyecto 09 -->
@@ -132,7 +132,7 @@
         <div class="image-hover-overlay background-pink">
           <div class="image-hover-overlay-content text-center padding-2x">
             <h3 class="text-white text-size-20 margin-bottom-10">Cimentación Moctezuma</h3>
-            <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural. 20T de Acero.<br>$4,500,500.00 MXN</p>  
+            <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural y Asistencia en Obra<br></p>  
             <i class="icon-sli-magnifier-add icon2x text-white"></i>
           </div> 
         </div> 
@@ -145,8 +145,8 @@
         <a class="image-with-hover-overlay image-hover-zoom" title="Portfolio2 Image" href="img/portfolio/portfolio-04.jpg" data-toggle="modal" data-target="#m10">
           <div class="image-hover-overlay background-pink">
             <div class="image-hover-overlay-content text-center padding-2x">
-              <h3 class="text-white text-size-20 margin-bottom-10">Vivienda Galicia</h3>
-              <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural. 20T de Acero.<br>$4,500,500.00 MXN</p>  
+              <h3 class="text-white text-size-20 margin-bottom-10">Nave Querétaro</h3>
+              <p class="text-white text-size-14 margin-bottom-20">Proyecto Estructural<br></p>  
               <i class="icon-sli-magnifier-add icon2x text-white"></i>
             </div> 
           </div> 
@@ -494,13 +494,13 @@
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="first-slide" src="img/08.fotosPuertoDeportivoBaiona/02.png" alt="First slide">
+              <img class="first-slide" src="img/13.cimentacionFortaleza/02.jpeg" alt="First slide">
             </div>
             <div class="carousel-item">
-              <img class="second-slide" src="img/08.fotosPuertoDeportivoBaiona/03.png" alt="Second slide">
+              <img class="second-slide" src="img/13.cimentacionFortaleza/03.jpeg" alt="Second slide">
             </div>
             <div class="carousel-item">
-              <img class="third-slide" src="img/08.fotosPuertoDeportivoBaiona/04.png" alt="Third slide">
+              <img class="third-slide" src="img/13.cimentacionFortaleza/04.jpeg" alt="Third slide">
             </div>
           </div>
           <a class="carousel-control-prev" href="#myCarouselInd8" role="button" data-slide="prev">
