@@ -3,11 +3,19 @@
 @section('content')
 
 <article>
+  <!-- <header class="section" data-image-src="img/bsp/38.jpg">
+    <div class="line text-center">
+      <h1 class="text-white margin-top-bottom-30 text-size-90 text-m-size-40 text-line-height-1 text-thin"><span class="text-white">-</span> Método zixMonkeys <span class="text-white">-</span></h1>
+      <p class="margin-bottom-0 text-size-20 text-white">
+      El valor de nuestro trabajo es la empatía con las necesidades arquitectónicas, estéticas y económicas de nuestros clientes.</p>
+    </div>  
+  </header> -->
   <header class="section" data-image-src="img/bsp/38.jpg">
-    <div class="line text-center">        
-      <h1 class="text-white margin-top-bottom-30 text-size-70 text-m-size-40 text-line-height-1 text-thin"><span class="text-white">-</span> Metodología de trabajo <span class="text-white">-</span></h1>
-      <p class="margin-bottom-0 text-size-16 text-white">
-      La base de nuestro trabajo, así como valor añadido, es la flexibilidad con las necesidades del cliente: arquitectónicas, estéticas, económicas, etc. <br>Todas ellas abordadas desde nuestra visión de orden y optimización de las estructuras.</p>
+    <div class="line text-center">
+      <h1 class="margin-bottom-40 text-thin text-white text-s-size-30 text-m-size-40 text-size-headline text-line-height-1"><span class="text-white"><b>-</b></span><b> zixMonkeys </b><span class="text-white"><b>-</b></span></h1>
+      <p class="margin-bottom-0 text-size-20 text-white">
+        El valor de nuestro trabajo es la empatía con las necesidades arquitectónicas, estéticas y económicas de nuestros clientes.
+      </p>
     </div>  
   </header>
   

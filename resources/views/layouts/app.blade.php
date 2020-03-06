@@ -53,15 +53,11 @@
       <!-- HEADER -->
       <header role="banner" class="position-absolute margin-top-30 margin-m-top-0 margin-s-top-0">    
         <!-- Top Navigation -->
-        <nav class="background-transparent background-transparent-hightlight full-width sticky">
+        <nav class="background-white background-transparent-hightlight full-width sticky">
           <div class="s-12 l-2">
             <a href="/" class="logo">
               <!-- Logo version before sticky nav -->
               <img class="logo-before" src="img/monkey_005.png" alt="" >
-              <!-- <img class="logo-before" src="img/logo-dark.png"> -->
-              
-              <!-- Logo version after sticky nav -->
-              <!-- <img class="logo-after" src="img/logo-dark.png"> -->
               <img class="logo-after" src="img/monkey_005.png" alt="" >
             </a>
           </div>
@@ -106,12 +102,8 @@
               <div class="s-12 m-12 l-3 margin-m-bottom-30">
                 <h3 class="text-size-16">Dirección</h3>
                 <p class="text-size-14">
-                  Ciudad de México, México
-                </p>
-                <p class="text-size-14">
-                  Querétaro, México
-                </p>
-                <p class="text-size-14">
+                  Ciudad de México, México<br>
+                  Querétaro, México<br>
                    Madrid, España
                 </p>                
               </div>
@@ -119,7 +111,7 @@
               <div class="s-12 m-12 l-3 margin-m-bottom-30">
                 <h3 class="text-size-16">Correo</h3>
                 <p class="text-size-14">
-                   proyectos@zixmonkeys.com
+                   contacto@zixmonkeys.com
                 </p>              
               </div>
               <!-- Collumn 3 -->
@@ -144,7 +136,7 @@
         <!-- Bottom Footer -->
         <section class="padding background-dark full-width">
           <div class="text-center">
-            <p class="text-size-12">Copyright 2019, Vision Design - Orange Code</p>
+            <p class="text-size-12">Copyright 2020, Vision Design - Orange Code</p>
           </div>
         </section>
       </footer>

@@ -2,15 +2,15 @@
 
 @section('content')
 
-<header class="section" data-image-src="img/bsp/7_bis.jpg">
-    <div class="line text-center">        
-      <!-- <h1 class="text-white margin-top-bottom-30 text-size-70 text-m-size-40 text-line-height-1 text-thin"><span class="text-white">-</span> Servicios <span class="text-white">-</span></h1> -->
-      <h1 class="margin-bottom-40 text-thin text-dark text-s-size-30 text-m-size-40 text-size-headline text-line-height-1"><span class="text-white">-</span> Servicios <span class="text-white">-</span></h1>
-      <p class="margin-bottom-0 text-size-16 text-dark">
-        Gracias al equipo multidisciplinar (ingenieros y arquitectos ambos con distintos tipos de especialidades) y de dilatada experiencia, ofrecemos todos los servicios relacionados con proyectos de construcción.
-      </p>
-    </div>  
-  </header>
+<header class="section" data-image-src="img/bsp/5.jpg">
+  <div class="line text-center">        
+    <!-- <h1 class="text-white margin-top-bottom-30 text-size-70 text-m-size-40 text-line-height-1 text-thin"><span class="text-white">-</span> Servicios <span class="text-white">-</span></h1> -->
+    <h1 class="margin-bottom-40 text-thin text-white text-s-size-30 text-m-size-40 text-size-headline text-line-height-1"><span class="text-white"><b>-</b></span> <b>Servicios </b><span class="text-white"><b>-</b></span></h1>
+    <p class="margin-bottom-0 text-size-20 text-white">
+      Gracias al equipo multidisciplinario (ingenieros y arquitectos ambos con distintos tipos de especialidades) y de amplia experiencia, ofrecemos todos los servicios relacionados con proyectos de construcción.
+    </p>
+  </div>  
+</header>
 
 <section class="section background-white">
   <!-- Section 1 -->

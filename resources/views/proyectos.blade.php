@@ -4,13 +4,20 @@
 
 <!-- Content -->
 <article>
-  <!-- <header class="section background-pink"> -->
-  <header class="section background-white">
+<!--   <header class="section background-white">
     <div class="line text-center">        
-      <!-- <h1 class="text-white margin-top-bottom-30 text-size-70 text-m-size-40 text-line-height-1 text-thin"><span class="text-white">-</span> Proyectos <span class="text-white">-</span></h1> -->
-      <h1 class="text-dark margin-top-bottom-30 text-size-70 text-m-size-40 text-line-height-1 text-thin"><span class="text-dark">-</span> Proyectos <span class="text-dark">-</span></h1>
-      <!-- <p class="margin-bottom-0 text-size-16 text-white">Proyectos en las áreas arquitectónicas y civiles en México y España, en los sectores residenciales, comerciales, industriales, hosteleros y otros.<br>Igualmente tenemos proyectos enfocados en distintas áreas de la ingeniería estructural, tales como programación, planificación de obra y mecánica estructural.</p> -->
-      <p class="margin-bottom-0 text-size-16 text-dark">Proyectos en las áreas arquitectónicas y civiles en México y España, en los sectores residenciales, comerciales, industriales, hosteleros y otros.<br>Igualmente tenemos proyectos enfocados en distintas áreas de la ingeniería estructural, tales como programación, planificación de obra y mecánica estructural.</p>
+      <h1 class="text-dark margin-top-bottom-30 text-size-90 text-m-size-40 text-line-height-1 text-thin"><span class="text-dark">-</span> Proyectos <span class="text-dark">-</span></h1>
+      <p class="margin-bottom-0 text-size-16 text-dark">
+        Proyectos en las áreas arquitectónicas y civiles en México y España, en los sectores residenciales, comerciales, industriales, hosteleros y otros.<br>Igualmente tenemos proyectos enfocados en distintas áreas de la ingeniería estructural, tales como programación, planificación de obra y mecánica estructural.
+      </p>
+    </div>  
+  </header> -->
+  <header class="section">
+    <div class="line text-center">
+      <h1 class="margin-bottom-40 text-thin text-dark text-s-size-30 text-m-size-40 text-size-headline text-line-height-1"><span class="text-dark"><b>-</b></span><b> Proyectos </b><span class="text-dark"><b>-</b></span></h1>
+      <p class="margin-bottom-0 text-size-20 text-dark">
+        Proyectos de arquitectura y obra civil en los sectores residenciales, comerciales, industriales, hosteleros y otros en México y España.<br>Consultoría en el sector inmobiliario, programación, planificación de obra y mecánica estructural.
+      </p>
     </div>  
   </header>
 

@@ -5,10 +5,18 @@
 <main role="main">
   <!-- Content -->
   <article>
-    <header class="section" data-image-src="img/bsp/37.jpg">
+    <!-- <header class="section" data-image-src="img/bsp/37.jpg">
       <div class="line text-center">        
         <h1 class="text-white margin-top-bottom-30 text-size-70 text-m-size-40 text-line-height-1 text-thin"><span class="text-white">-</span> Contacto <span class="text-white">-</span></h1>
         <p class="margin-bottom-0 text-size-16 text-dark"></p>
+      </div>  
+    </header> -->
+    <header class="section" data-image-src="img/bsp/37.jpg">
+      <div class="line text-center">
+        <h1 class="margin-bottom-40 text-thin text-white text-s-size-30 text-m-size-40 text-size-headline text-line-height-1"><span class="text-white"><b>-</b></span><b> Contacto </b><span class="text-white"><b>-</b></span></h1>
+        <!-- <p class="margin-bottom-0 text-size-20 text-white">
+          Anticipa las necesidades de tu proyecto y solicita un presupuesto.
+        </p> -->
       </div>  
     </header>
     
@@ -19,16 +27,17 @@
       <div class="s-12 m-12 l-6 text-center">
         <div class="padding-2x">
           <i class="icon-sli-location-pin text-dark text-size-30 center"></i>
-          <h2 class="text-size-20 margin-bottom-0 text-dark">Company Address</h2><br>                
-          <p>Ciudad de México, México</p>
-          <p>Querétaro, México</p>
-          <p>Madrid, España</p>
+          <h2 class="text-size-20 margin-bottom-0 text-dark">Ubicación</h2>                
+          <p>Ciudad de México, México<br>
+          Querétaro, México<br>
+          Madrid, España</p>
           <i class="icon-sli-envelope text-dark text-size-30 center margin-top-20"></i>
-          <h2 class="text-size-20 margin-bottom-0 text-dark">E-mail</h2>                
-          <a class="text-primary-hover" href="mailto:contact@zixmonkeys.com">contact@zixmonkeys.com</a><br>
-          <a class="text-primary-hover" href="mailto:office@zixmonkeys.com">office@zixmonkeys.com</a>
+          <h2 class="text-size-20 margin-bottom-0 text-dark">Correo</h2>
+          <p>contacto@zixmonkeys.com</p>                
+          <!-- <a class="text-primary-hover" href="mailto:contact@zixmonkeys.com">contact@zixmonkeys.com</a><br>
+          <a class="text-primary-hover" href="mailto:office@zixmonkeys.com">office@zixmonkeys.com</a> -->
           <i class="icon-sli-earphones-alt text-dark text-size-30 center margin-top-20"></i>
-          <h2 class="text-size-20 margin-bottom-0 text-dark">Phone Numbers</h2>                
+          <h2 class="text-size-20 margin-bottom-0 text-dark">Teléfono</h2>                
           <p>+34 655 715 199</p>
         </div>
       </div>
