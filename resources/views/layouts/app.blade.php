@@ -118,7 +118,8 @@
               <div class="s-12 m-12 l-3 ">
                 <h3 class="text-size-16">Teléfono</h3>
                 <p class="text-size-14">
-                   +34 655 715 199<br>
+                   +52 442 128 1369<br>
+                   +34 655 715 199
                 </p>             
               </div>
               <div class="s-12 m-12 l-3 ">
