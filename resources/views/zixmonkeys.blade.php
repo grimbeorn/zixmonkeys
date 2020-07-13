@@ -45,7 +45,7 @@
         </div>
         <div class="margin-left-70 margin-m-left-0">
           <h2 class="text-size-20 margin-bottom-10"><b>03</b> Constructibilidad</h2>
-          <p>pensamos en estructuras que se puedan construir y esto los conceptos y, por supuesto, en los planos.</p>                
+          <p>pensamos en estructuras que se puedan construir facilmente, y esto lo expresamos en planos claros y precisos.</p>                
         </div> 
       </div>
       <div class="s-12 m-12 l-3 margin-bottom-30">

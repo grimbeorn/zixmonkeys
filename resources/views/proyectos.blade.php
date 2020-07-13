@@ -16,7 +16,7 @@
     <div class="line text-center">
       <h1 class="margin-bottom-40 text-thin text-dark text-s-size-30 text-m-size-40 text-size-headline text-line-height-1"><span class="text-dark"><b>-</b></span><b> Proyectos </b><span class="text-dark"><b>-</b></span></h1>
       <p class="margin-bottom-0 text-size-20 text-dark">
-        Proyectos de arquitectura y obra civil en los sectores residenciales, comerciales, industriales, hosteleros y otros en México y España.<br>Consultoría en el sector inmobiliario, programación, planificación de obra y mecánica estructural.
+        Proyectos de arquitectura y obra civil en los sectores residenciales, comerciales, industriales, hosteleros y otros en México y España.<br>Igualmente realizamos proyectos y desarrollos relacionados con la mecánica estructural, estudios con elementos finitos, necesarios para detalles, estructuras complejas o estructuras sometidas a acciones de viento u otros.
       </p>
     </div>  
   </header>

@@ -87,12 +87,12 @@
       <footer>
 
         <!-- Contact Us -->
-        <div class="background-dark padding text-center footer-social">
+        <!-- <div class="background-dark padding text-center footer-social">
           <a class="margin-right-10" target="_blank" href="https://www.facebook.com"><i class="icon-facebook_circle text-size-30"></i> <span class="text-strong text-white hide-s hide-m">FACEBOOK</span></a>
           <a class="margin-right-10" target="_blank" href="https://www.twitter.com"><i class="icon-twitter_circle text-size-30"></i> <span class="text-strong text-white hide-s hide-m">TWITTER</span></a>
           <a class="margin-right-10" target="_blank" href="https://www.instagram.com"><i class="icon-instagram_circle text-size-30"></i> <span class="text-strong text-white hide-s hide-m">INSTAGRAM</span></a>
           <a target="_blank" href="https://www.linkedin.com"><i class="icon-linked_in_circle text-size-30"></i> <span class="text-strong text-white hide-s hide-m">LINKEDIN</span></a>                                                                         
-        </div>
+        </div> -->
               
         <!-- Main Footer -->
         <section class="section-small-padding text-center background-dark full-width">
@@ -119,7 +119,6 @@
                 <h3 class="text-size-16">Teléfono</h3>
                 <p class="text-size-14">
                    +52 442 128 1369<br>
-                   +34 655 715 199
                 </p>             
               </div>
               <div class="s-12 m-12 l-3 ">
