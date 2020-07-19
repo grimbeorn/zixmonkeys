@@ -85,7 +85,7 @@
       
       <!-- FOOTER -->
       <footer>
-
+        <!-- Código de instalación Cliengo para hernandomtz@gmail.com --> <script type="text/javascript">(function () { var ldk = document.createElement('script'); ldk.type = 'text/javascript'; ldk.async = true; ldk.src = 'https://s.cliengo.com/weboptimizer/5f13cc0c4c8b34002a11e4c0/5f13cc0e4c8b34002a11e4c3.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ldk, s); })();</script>
         <!-- Contact Us -->
         <!-- <div class="background-dark padding text-center footer-social">
           <a class="margin-right-10" target="_blank" href="https://www.facebook.com"><i class="icon-facebook_circle text-size-30"></i> <span class="text-strong text-white hide-s hide-m">FACEBOOK</span></a>
@@ -139,7 +139,6 @@
             <p class="text-size-12">Copyright 2020, Vision Design - Orange Code</p>
           </div>
         </section>
-        <!-- Código de instalación Cliengo para hernandomtz@gmail.com --> <script type="text/javascript">(function () { var ldk = document.createElement('script'); ldk.type = 'text/javascript'; ldk.async = true; ldk.src = 'https://s.cliengo.com/weboptimizer/5f13cc0c4c8b34002a11e4c0/5f13cc0e4c8b34002a11e4c3.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ldk, s); })();</script>
       </footer>
     </div>
     
@@ -175,8 +174,6 @@
     <script>window.jQuery || document.write('<script src="{{ asset('js/jquery-slim.min.js') }}"><\/script>')</script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-
-    
 
   </body>
 </html>
