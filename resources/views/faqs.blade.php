@@ -50,8 +50,6 @@
           <p>asumimos e incorporamos en la estructura las implicaciones, afecciones y necesidades de las demás ingenierías (hidráulica, eléctrica, ascensores...) </p>                
         </div> 
       </div>
-    </div>
-    <div class="margin2x">
       <div class="s-12 m-12 l-12 margin-m-bottom-30">
         <div class="float-left hide-m hide-s">
           <i class="icon-sli-home text-size-40 text-dark"></i>
@@ -98,6 +96,7 @@
         </div> 
       </div>
     </div>
+    
   </section>
   
   <hr class="margin-top-bottom-0">
