@@ -24,6 +24,10 @@ Route::get('/contacto', function () {
     return view('contacto');
 });
 
+Route::get('/faqs', function () {
+    return view('faqs');
+});
+
 Route::post('/contact2', 'contact2Controller@send');
 
 Route::post('/presupuestos2', 'presupuestos2Controller@send');

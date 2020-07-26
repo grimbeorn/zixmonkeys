@@ -70,7 +70,8 @@
                 <li><a href="/zixmonkeys">ZixMonkeys</a></li>
                 <li><a href="/proyectos">Proyectos</a></li>
                 <li><a href="/servicios">Servicios</a></li>
-                <li><a href="/presupuestos">Presupuestos</a></li>               
+                <li><a href="/presupuestos">Presupuestos</a></li>  
+                <li><a href="/faqs">FAQs</a></li>             
                 <li><a href="/contacto">Contacto</a></li>
               </ul>
             </div>
