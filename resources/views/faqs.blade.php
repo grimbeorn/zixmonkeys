@@ -3,9 +3,9 @@
 @section('content')
 
 <article>
-  <header class="section" data-image-src="img/bsp/38.jpg">
+  <header class="section" data-image-src="img/bsp/31.jpg">
     <div class="line text-center">
-      <h1 class="margin-bottom-40 text-thin text-white text-s-size-30 text-m-size-40 text-size-headline text-line-height-1"><span class="text-white"><b>-</b></span><b> FAQ </b><span class="text-white"><b>-</b></span></h1>
+      <h1 class="margin-bottom-40 text-thin text-white text-s-size-30 text-m-size-40 text-size-headline text-line-height-1"><span class="text-white"><b>-</b></span><b> Frequently Asked Questions </b><span class="text-white"><b>-</b></span></h1>
       <!-- <p class="margin-bottom-0 text-size-20 text-white">
         El valor de nuestro trabajo es la empatía con las necesidades arquitectónicas, estéticas y económicas de nuestros clientes.
       </p> -->
@@ -41,7 +41,7 @@
           <p>pensamos en estructuras que se puedan construir facilmente, y esto lo expresamos en planos claros y precisos.</p>                
         </div> 
       </div>
-      <div class="s-12 m-12 l-3 margin-bottom-30">
+      <div class="s-12 m-12 l-12 margin-bottom-30">
         <div class="float-left hide-m hide-s">
           <i class="icon-sli-paper-plane text-size-40 text-dark"></i>
         </div>
@@ -52,7 +52,7 @@
       </div>
     </div>
     <div class="margin2x">
-      <div class="s-12 m-12 l-3 margin-m-bottom-30">
+      <div class="s-12 m-12 l-12 margin-m-bottom-30">
         <div class="float-left hide-m hide-s">
           <i class="icon-sli-home text-size-40 text-dark"></i>
         </div>
@@ -61,7 +61,7 @@
           <p>por supuesto, las normas vigentes de aplicaciones están siempre presentes en nuestro quehacer, no sólo para obedecerlas sino para saber en qué casos pueden favorecer a los proyectos.</p>                
         </div> 
       </div>
-      <div class="s-12 m-12 l-3 margin-m-bottom-30">
+      <div class="s-12 m-12 l-12 margin-m-bottom-30">
         <div class="float-left hide-m hide-s">
           <i class="icon-sli-grid text-size-40 text-dark"></i>
         </div>
@@ -70,7 +70,7 @@
           <p>ayudamos a la toma de decisiones por medio de la valoración de conceptos y proyectos, resolviendo dudas del tipo: ¿qué estructura puede ser mejor acero o concreto?, ¿qué tipo de losa puede convenir unidireccional o bidireccional?</p>                
         </div> 
       </div>
-      <div class="s-12 m-12 l-3 margin-m-bottom-30">
+      <div class="s-12 m-12 l-12 margin-m-bottom-30">
         <div class="float-left hide-m hide-s">
           <i class="icon-sli-crop text-size-40 text-dark"></i>
         </div>
@@ -79,7 +79,7 @@
           <p>dentro de nuestro quehacer está: from the scratch, recálculos, informes, reformas, remodelaciones, refuerzos, asistencia técnica, industrialización y fichas técnicas, asesorías. </p>                
         </div> 
       </div>
-      <div class="s-12 m-12 l-3">
+      <div class="s-12 m-12 l-12 margin-m-bottom-30">
         <div class="float-left hide-m hide-s">
           <i class="icon-sli-vector text-size-40 text-dark"></i>
         </div>
@@ -88,12 +88,12 @@
           <p>comunicar, explicar, entender, compartir lo que hacemos, porqué lo hacemos y cómo lo hacemos con el cliente, es parte esencial de nuestra visión y forma de trabajo.</p>                
         </div> 
       </div>
-      <div class="s-12 m-12 l-3">
+      <div class="s-12 m-12 l-12 margin-m-bottom-30">
         <div class="float-left hide-m hide-s">
           <i class="icon-sli-vector text-size-40 text-dark"></i>
         </div>
         <div class="margin-left-70 margin-m-left-0">
-          <h2 class="text-size-20 margin-bottom-10"><b>08</b> ¿Se pueden cumplir todas las normativas del diseño estructural y además ser una estructura económica?</h2>
+          <h2 class="text-size-20 margin-bottom-10"><b>09</b> ¿Se pueden cumplir todas las normativas del diseño estructural y además ser una estructura económica?</h2>
           <p>comunicar, explicar, entender, compartir lo que hacemos, porqué lo hacemos y cómo lo hacemos con el cliente, es parte esencial de nuestra visión y forma de trabajo.</p>                
         </div> 
       </div>
