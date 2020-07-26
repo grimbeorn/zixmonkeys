@@ -16,7 +16,7 @@
     <div class="margin2x">
       <div class="s-12 m-12 l-12 margin-bottom-30">
         <div class="float-left hide-m hide-s">
-          <i class="icon-sli-layers text-size-40 text-dark"></i>
+          <i class="icon-sli-question text-size-40 text-dark"></i>
         </div>
         <div class="margin-left-70 margin-m-left-0">
           <h2 class="text-size-20 margin-bottom-10"><b>01</b> ¿Se puede optimizar mi estructura?</h2>
@@ -25,7 +25,7 @@
       </div>
       <div class="s-12 m-12 l-12 margin-bottom-30">
         <div class="float-left hide-m hide-s">
-          <i class="icon-sli-pin text-size-40 text-dark"></i>
+          <i class="icon-sli-question text-size-40 text-dark"></i>
         </div>
         <div class="margin-left-70 margin-m-left-0">
           <h2 class="text-size-20 margin-bottom-10"><b>02</b> ¿Se pueden reducir costos en la estructura que tengo calculada actualmente?</h2>
@@ -34,7 +34,7 @@
       </div>
       <div class="s-12 m-12 l-12 margin-bottom-30">
         <div class="float-left hide-m hide-s">
-          <i class="icon-sli-pencil text-size-40 text-dark"></i>
+          <i class="icon-sli-question text-size-40 text-dark"></i>
         </div>
         <div class="margin-left-70 margin-m-left-0">
           <h2 class="text-size-20 margin-bottom-10"><b>03</b> ¿Qué tipo de estructura me conviene, de acero o de concreto?</h2>
@@ -43,7 +43,7 @@
       </div>
       <div class="s-12 m-12 l-12 margin-bottom-30">
         <div class="float-left hide-m hide-s">
-          <i class="icon-sli-paper-plane text-size-40 text-dark"></i>
+          <i class="icon-sli-question text-size-40 text-dark"></i>
         </div>
         <div class="margin-left-70 margin-m-left-0">
           <h2 class="text-size-20 margin-bottom-10"><b>04</b> ¿Cuál es el mejor sistema para construir rápidamente mi obra?</h2>
@@ -52,7 +52,7 @@
       </div>
       <div class="s-12 m-12 l-12 margin-bottom-30">
         <div class="float-left hide-m hide-s">
-          <i class="icon-sli-paper-plane text-size-40 text-dark"></i>
+          <i class="icon-sli-question text-size-40 text-dark"></i>
         </div>
         <div class="margin-left-70 margin-m-left-0">
           <h2 class="text-size-20 margin-bottom-10"><b>05</b> ¿Es necesario pagar tanto por el cálculo estructural?</h2>
@@ -61,7 +61,7 @@
       </div>
       <div class="s-12 m-12 l-12 margin-bottom-30">
         <div class="float-left hide-m hide-s">
-          <i class="icon-sli-paper-plane text-size-40 text-dark"></i>
+          <i class="icon-sli-question text-size-40 text-dark"></i>
         </div>
         <div class="margin-left-70 margin-m-left-0">
           <h2 class="text-size-20 margin-bottom-10"><b>06</b> ¿Cuánto me puedo ahorrar con el cálculo de la estructura?</h2>
@@ -70,7 +70,7 @@
       </div>
       <div class="s-12 m-12 l-12 margin-bottom-30">
         <div class="float-left hide-m hide-s">
-          <i class="icon-sli-paper-plane text-size-40 text-dark"></i>
+          <i class="icon-sli-question text-size-40 text-dark"></i>
         </div>
         <div class="margin-left-70 margin-m-left-0">
           <h2 class="text-size-20 margin-bottom-10"><b>07</b> ¿Se pueden realizar todas las ideas arquitectónicas?</h2>
@@ -79,7 +79,7 @@
       </div>
       <div class="s-12 m-12 l-12 margin-bottom-30">
         <div class="float-left hide-m hide-s">
-          <i class="icon-sli-paper-plane text-size-40 text-dark"></i>
+          <i class="icon-sli-question text-size-40 text-dark"></i>
         </div>
         <div class="margin-left-70 margin-m-left-0">
           <h2 class="text-size-20 margin-bottom-10"><b>08</b> ¿Porqué me conviene más un estructurista u otro?</h2>
@@ -88,7 +88,7 @@
       </div>
       <div class="s-12 m-12 l-12 margin-bottom-30">
         <div class="float-left hide-m hide-s">
-          <i class="icon-sli-paper-plane text-size-40 text-dark"></i>
+          <i class="icon-sli-question text-size-40 text-dark"></i>
         </div>
         <div class="margin-left-70 margin-m-left-0">
           <h2 class="text-size-20 margin-bottom-10"><b>09</b> ¿Se pueden cumplir todas las normativas del diseño estructural y además ser una estructura económica?</h2>
