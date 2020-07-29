@@ -5,7 +5,7 @@
 <div class="carousel-fade-transition owl-carousel carousel-main carousel-hide-arrows background-white">
   <div class="item">
     <div class="s-12 center">
-      <img src="img/bsp/13_001.jpg" alt="">
+      <img src="img/bsp/13_001.wdp" alt="">
       <div class="carousel-content">
         <div class="content-center-vertical line">
           <div class="s-12 m-12 l-8">
@@ -17,7 +17,7 @@
   </div>
   <div class="item">
     <div class="s-12 center">
-      <img src="img/bsp/11_001.jpg" alt="">
+      <img src="img/bsp/11_001.wdp" alt="">
       <div class="carousel-content">
         <div class="content-center-vertical line">
           <div class="s-12 m-12 l-8">
@@ -29,7 +29,7 @@
   </div>
   <div class="item">
     <div class="s-12 center">
-      <img src="img/bsp/25_001.jpg" alt="">
+      <img src="img/bsp/25_001.wdp" alt="">
       <div class="carousel-content">
         <div class="content-center-vertical line">
           <div class="s-12 m-12 l-8">
