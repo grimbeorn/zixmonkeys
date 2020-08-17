@@ -126,7 +126,7 @@
                 <h3 class="text-size-16">Trabaja con Nosotros</h3>
                 <p class="text-size-14">
                    Mándanos un correo a:<br>
-                   contacto@zixmonkeys.com
+                   hello@zixmonkeys.com
                 </p>             
               </div>
             </div>
