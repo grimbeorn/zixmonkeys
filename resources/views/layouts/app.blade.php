@@ -112,7 +112,7 @@
               <div class="s-12 m-12 l-3 margin-m-bottom-30">
                 <h3 class="text-size-16">Correo</h3>
                 <p class="text-size-14">
-                   contacto@zixmonkeys.com
+                   hello@zixmonkeys.com
                 </p>              
               </div>
               <!-- Collumn 3 -->
