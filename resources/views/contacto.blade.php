@@ -29,8 +29,8 @@
           <i class="icon-sli-location-pin text-dark text-size-30 center"></i>
           <h2 class="text-size-20 margin-bottom-0 text-dark">Ubicación</h2>                
           <p>Ciudad de México, México<br>
-          Querétaro99, México<br>
-          Galiciaaa, España</p>
+          Querétaro, México<br>
+          Madrid, España</p>
           <i class="icon-sli-envelope text-dark text-size-30 center margin-top-20"></i>
           <h2 class="text-size-20 margin-bottom-0 text-dark">Correo</h2>
           <p>hello@zixmonkeys.com</p>                
