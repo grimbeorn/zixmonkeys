@@ -1,0 +1,432 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"precio",
+				"precioTotal"
+			],
+			[
+				"costo",
+				"costoMaterial"
+			],
+			[
+				"long",
+				"long_description"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ex",
+				"exWorksCost"
+			],
+			[
+				"change",
+				"changeQuantity"
+			],
+			[
+				"data",
+				"data-to"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/zixmonkeys/resources/views/contacto.blade.php",
+		"/C/xampp/htdocs/zixmonkeys/resources/views/presupuestos.blade.php",
+		"/C/xampp/htdocs/zixmonkeys/resources/views/servicios.blade.php",
+		"/C/xampp/htdocs/zixmonkeys/resources/views/proyectos.blade.php",
+		"/C/xampp/htdocs/zixmonkeys/resources/views/zixmonkeys.blade.php",
+		"/C/xampp/htdocs/zixmonkeys/resources/views/index.blade.php",
+		"/C/xampp/htdocs/zixmonkeys/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/minimalista-premium-06222019/contact.html",
+		"/C/xampp/htdocs/zixmonkeys/public/js/validation.js",
+		"/C/xampp/htdocs/minimalista-premium-06222019/js/validation.js",
+		"/C/xampp/htdocs/minimalista-premium-06222019/index-3.html",
+		"/C/xampp/htdocs/minimalista-premium-06222019/services.html",
+		"/C/xampp/htdocs/minimalista-premium-06222019/index.html",
+		"/C/xampp/htdocs/minimalista-premium-06222019/portfolio.html",
+		"/C/xampp/htdocs/zixmonkeys/routes/web.php",
+		"/C/xampp/htdocs/panelmexico/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/panelmexico/vendor/biscolab/laravel-recaptcha/src/ReCaptchaBuilder.php",
+		"/C/xampp/htdocs/panelmexico/vendor/biscolab/laravel-recaptcha/config/recaptcha.php",
+		"/C/xampp/htdocs/panelmexico/.env",
+		"/C/xampp/htdocs/zixengineering/resources/views/contacto.blade.php",
+		"/C/xampp/htdocs/virtua-premium-06222019/elements.html",
+		"/C/xampp/htdocs/panelmexico/resources/views/contact.blade.php",
+		"/C/xampp/htdocs/panelmexico/resources/views/quote.blade.php",
+		"/C/xampp/htdocs/panelmexico/config/app.php",
+		"/C/xampp/htdocs/panelmexico/resources/views/index.blade.php",
+		"/C/xampp/htdocs/minimalista-premium-06222019/index-2.html",
+		"/C/xampp/htdocs/zixmonkeys/public/img/monkey_02.svg",
+		"/C/xampp/htdocs/zixmonkeys/public/img/logo-dark.png",
+		"/C/xampp/htdocs/zixmonkeys/public/img/monkey_00.svg",
+		"/C/Users/Hernando/cerebrum/cerebrum-web/node_modules/detective/test/word.js",
+		"/C/xampp/htdocs/panelmexico/public/owl-carousel/owl.carousel.css",
+		"/C/xampp/htdocs/panelmexico/resources/views/products.blade.php",
+		"/C/xampp/htdocs/panelmexico/app/Http/Controllers/QuoteController.php",
+		"/C/xampp/htdocs/panelmexico/resources/views/quotes/quotation04.html",
+		"/C/xampp/htdocs/panelmexico/resources/views/quotes/quotation03.html",
+		"/C/xampp/htdocs/panelmexico/resources/views/quotes/quotation02.html",
+		"/C/xampp/htdocs/panelmexico/routes/web.php",
+		"/C/xampp/htdocs/panelmexico/app/Mail/FileDownloaded.php",
+		"/C/xampp/htdocs/dashboard/pages/documentos/cDocumentos.php",
+		"/C/xampp/htdocs/dashboard/index.html",
+		"/C/xampp/htdocs/zixengineering/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/panelmexico/app/Mail/NewContact2.php",
+		"/C/xampp/htdocs/panelmexico/app/Http/Controllers/contact2Controller.php",
+		"/C/xampp/htdocs/panelmexico/resources/views/emails/contacto2.blade.php",
+		"/C/xampp/htdocs/panelmexico/resources/views/emails/files_downloaded.blade.php",
+		"/C/xampp/htdocs/panelmexico/storage/app/quote.pdf",
+		"/C/xampp/htdocs/panelmexico/config/filesystems.php",
+		"/C/xampp/htdocs/panelmexico/resources/views/emails/quote3.blade.php",
+		"/C/xampp/htdocs/panelmexico/app/Mail/NewQuote.php",
+		"/C/xampp/htdocs/panelmexico/resources/views/quotes/pdf_style.blade.php",
+		"/C/xampp/htdocs/panelmexico/resources/views/quotes/quotation.blade.php",
+		"/C/xampp/htdocs/zixengineering/resources/views/home.blade.php",
+		"/C/xampp/htdocs/panelmexico/resources/views/emails/quote4.blade.php",
+		"/C/xampp/htdocs/panelmexico/bootstrap/app.php",
+		"/C/xampp/htdocs/panelmexico/vendor/barryvdh/laravel-dompdf/src/Facade.php",
+		"/C/xampp/htdocs/panelmexico/app/Http/Controllers/PrecioController.php",
+		"/C/xampp/htdocs/panelmexico/app/Http/Controllers/Controller.php",
+		"/C/xampp/htdocs/panelmexico/resources/views/emails/quote.blade.php",
+		"/C/xampp/htdocs/panelmexico/resources/views/quotes/quotation.html",
+		"/C/xampp/htdocs/panelmexico/resources/views/modal.blade.php",
+		"/C/xampp/htdocs/panelmexico/app/Http/Controllers/modalController.php",
+		"/C/xampp/htdocs/panelmexico/public/js/jquery.min.js",
+		"/C/xampp/htdocs/dashboard/pages/documentos/procesos/actualizar.php",
+		"/C/xampp/htdocs/dashboard/pages/documentos/modal.php",
+		"/C/xampp/htdocs/panelmexico/resources/views/layouts/appQuote.blade.php",
+		"/C/xampp/htdocs/virtua-premium-06222019/typography.html",
+		"/C/xampp/htdocs/zixengineering/resources/views/proyectosResidencial.blade.php",
+		"/C/xampp/htdocs/virtua-premium-06222019/about-us.html",
+		"/C/xampp/htdocs/panelmexico/config/mail.php",
+		"/C/xampp/htdocs/panelmexico/config/services.php",
+		"/C/xampp/htdocs/zixengineering/.env",
+		"/C/xampp/htdocs/dashboard/pages/clases/crudDocumentos.php",
+		"/C/xampp/htdocs/zixengineering/app/Http/Controllers/contact2Controller.php",
+		"/C/xampp/htdocs/sistemap.01/ingenieria/php/actualizacionDocumento.php",
+		"/C/xampp/htdocs/sistemap.01/ingenieria/php/buscarDocumento.php",
+		"/C/xampp/htdocs/dashboard02/pages/documentos/cDocumentos.php",
+		"/C/xampp/htdocs/dashboard/pages/seguimiento/procesos/actualizar.php",
+		"/C/xampp/htdocs/dashboard/pages/seguimiento/cSeguimiento.php",
+		"/C/xampp/htdocs/dashboard/pages/distribuidores/cDistribuidores.php",
+		"/C/xampp/htdocs/dashboard/pages/proyectos/cProyectos.php",
+		"/C/xampp/htdocs/dashboard/pages/productos/cProductos.php",
+		"/C/xampp/htdocs/dashboard/pages/documentos/tabla.php",
+		"/C/xampp/htdocs/dashboard/pages/documentos/procesos/vModal.php",
+		"/C/xampp/htdocs/zixengineering/resources/views/presupuestos.blade.php",
+		"/C/xampp/htdocs/zixengineering/app/Http/Controllers/presupuestos2Controller.php",
+		"/C/xampp/htdocs/zixengineering/app/Http/Controllers/Controller.php",
+		"/C/xampp/htdocs/panelmexico/resources/views/precio.php",
+		"/C/xampp/htdocs/dashboard/pages/documentos/procesos/download.php",
+		"/C/xampp/htdocs/impulsoapp/resources/views/layouts/document.blade.php",
+		"/C/xampp/htdocs/impulsoapp/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/panelmexico/database/factories/ProductFactory.php",
+		"/C/xampp/htdocs/panelmexico/database/seeds/ProductsTableSeeder.php",
+		"/C/xampp/htdocs/panelmexico/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/panelmexico/app/Product.php",
+		"/C/xampp/htdocs/panelmexico/database/migrations/2019_10_26_163259_create_products_table.php",
+		"/C/xampp/htdocs/panelmexico/app/Providers/AppServiceProvider.php",
+		"/C/xampp/htdocs/panelmexico/database/migrations/2019_10_26_153927_create_paneles_table.php",
+		"/C/xampp/htdocs/panelmexico/resources/views/cotizador.blade.php",
+		"/C/xampp/htdocs/panelmexico/resources/views/contacto.blade.php",
+		"/C/xampp/htdocs/panelmexico/resources/views/refrigeracion.blade.php",
+		"/C/xampp/htdocs/panelmexico/resources/views/fachada.blade.php",
+		"/C/xampp/htdocs/panelmexico/resources/views/cubierta.blade.php",
+		"/C/xampp/htdocs/virtua-premium-06222019/index.html",
+		"/C/xampp/htdocs/startbootstrap-sb-admin-2/pages/forms.html",
+		"/C/xampp/htdocs/virtua-premium-06222019/contact-2.html",
+		"/C/xampp/htdocs/virtua-premium-06222019/about-us-2.html",
+		"/C/xampp/htdocs/panelmexico/public/web.config",
+		"/C/xampp/htdocs/panelmexico/routes/console.php",
+		"/C/xampp/htdocs/virtua-premium-06222019/index-3.html",
+		"/C/xampp/htdocs/sacramento/resources/views/layouts/appVirtua.blade.php",
+		"/C/xampp/htdocs/sacramento/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/virtua-premium-06222019/index-2.html",
+		"/C/xampp/htdocs/sacramento/resources/views/oficina.blade.php",
+		"/C/xampp/htdocs/sacramento/routes/web.php",
+		"/C/xampp/htdocs/panelmexico/resources/views/muro.blade.php",
+		"/C/xampp/htdocs/panelmexico/resources/views/techo.blade.php",
+		"/C/xampp/htdocs/sonnen/resources/views/auth/login.blade.php",
+		"/C/xampp/htdocs/sonnen/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/sonnen/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/enersol/resources/views/ahorro.blade.php",
+		"/C/xampp/htdocs/enersol/resources/views/index.blade.php",
+		"/C/xampp/htdocs/startbootstrap-sb-admin-2/pages/tables.html",
+		"/C/xampp/htdocs/sonnen/resources/views/admin/library/index.blade.php",
+		"/C/xampp/htdocs/sonnen/resources/views/admin/upload/index.blade.php",
+		"/C/xampp/htdocs/sonnen/resources/views/admin/tools/index.blade.php",
+		"/C/xampp/htdocs/sonnen/resources/views/admin/quoting/index.blade.php",
+		"/C/xampp/htdocs/sistemap.01/acceso/html/acceso.php",
+		"/C/xampp/htdocs/impulsoapp/resources/views/biblioteca.blade.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"white",
+			"#",
+			"title",
+			"information",
+			"result1",
+			"cantidad",
+			"overlay",
+			"heading",
+			"total",
+			"heading",
+			"buttons",
+			"rounded",
+			"correo",
+			"attr",
+			"cantidad",
+			"mVDocumento",
+			"change",
+			"a",
+			"cantidad",
+			"$table->float",
+			"$table->integer",
+			"            $",
+			"$table->string",
+			"responsive ",
+			"ToolsController",
+			"/admin",
+			"enersol",
+			"contact",
+			"contact us",
+			"contact",
+			"icon",
+			"favicon",
+			"center",
+			"document",
+			"exampleModalCenter",
+			"card"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"recaptchabi",
+				"vendor/biscolab/laravel-recaptcha/src/ReCaptchaBuilder.php"
+			],
+			[
+				"recaptcha.php",
+				"vendor/biscolab/laravel-recaptcha/config/recaptcha.php"
+			],
+			[
+				"reca",
+				"vendor/biscolab/laravel-recaptcha/config/recaptcha.php"
+			],
+			[
+				"owl",
+				"public/owl-carousel/owl.carousel.css"
+			],
+			[
+				"app.php",
+				"bootstrap/app.php"
+			],
+			[
+				"facade",
+				"vendor/barryvdh/laravel-dompdf/src/Facade.php"
+			],
+			[
+				"services",
+				"config/services.php"
+			],
+			[
+				"login",
+				"app/Http/Controllers/Auth/LoginController.php"
+			],
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"config",
+				"vendor/league/flysystem/src/Config.php"
+			],
+			[
+				"create_user",
+				"database/migrations/2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"user",
+				"app/User.php"
+			],
+			[
+				"home",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"layout",
+				"vendor/filp/whoops/src/Whoops/Resources/views/layout.html.php"
+			],
+			[
+				"apps",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"appser",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"mail.php",
+				"config/mail.php"
+			],
+			[
+				"contact2",
+				"app/Http/Controllers/contact2Controller.php"
+			],
+			[
+				"contact",
+				"resources/views/contacto.blade.php"
+			],
+			[
+				"mail.",
+				"config/mail.php"
+			],
+			[
+				"presupuestos",
+				"app/Http/Controllers/presupuestos2Controller.php"
+			],
+			[
+				"app-rout",
+				"src/app/app-routing.module.ts"
+			],
+			[
+				"image",
+				"app/Http/Controllers/ImageController.php"
+			],
+			[
+				"homec",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"controll",
+				"app/Http/Controllers/HomeController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true
+}
