@@ -36,7 +36,7 @@
                     <div class="s-12 m-12 l-6 text-right margin-m-bottom-40">  
                       <h2 class="text-dark text-thin headline text-s-size-40 text-size-50 text-line-height-1 margin-bottom-30">Proyectos de Ingeniería Estructural<br class="hide-m hide-s"> </h2>
                       <p class="text-dark">
-                      En zixMonkeys realizamos proyectos estructurales de gran calidad, orientados siempre a la satisfacción de clientes, constructores y usuarios finales.
+                      En kiebitz realizamos proyectos estructurales de gran calidad, orientados siempre a la satisfacción de clientes, constructores y usuarios finales.
                       </p> 
                     </div>
                     <div class="s-12 m-12 l-6">
@@ -64,7 +64,7 @@
                     <div class="s-12 m-12 l-6 text-right margin-m-bottom-40">  
                       <h2 class="text-dark text-thin headline text-s-size-40 text-size-50 text-line-height-1 margin-bottom-30">Reformas y remodelaciones<br class="hide-m hide-s"> </h2>
                       <p class="text-dark">
-                       Remodelar y reformar obras siempre es una labor de detalle y dedicación que en zixMonkeys realizamos con pasión y sentido constructivo.
+                       Remodelar y reformar obras siempre es una labor de detalle y dedicación que en kiebitz realizamos con pasión y sentido constructivo.
                       </p> 
                     </div>
                     <div class="s-12 m-12 l-6">

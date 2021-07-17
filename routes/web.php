@@ -4,8 +4,8 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/zixmonkeys', function () {
-    return view('zixmonkeys');
+Route::get('/kiebitz', function () {
+    return view('kiebitz');
 });
 
 Route::get('/proyectos', function () {

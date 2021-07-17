@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>ZixMonkeys - Ingeniería Estructural</title>
+    <title>Kiebitz - Ingeniería Estructural</title>
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script>window.jQuery || document.write('<script src="{{ asset('js/jquery-slim.min.js') }}"><\/script>')</script>
@@ -67,7 +67,7 @@
             </div>
             <div class="top-nav right">
               <ul class="right chevron">
-                <li><a href="/zixmonkeys">ZixMonkeys</a></li>
+                <li><a href="/kiebitz">Kiebitz</a></li>
                 <li><a href="/proyectos">Proyectos</a></li>
                 <li><a href="/servicios">Servicios</a></li>
                 <li><a href="/presupuestos">Presupuestos</a></li>  
@@ -112,7 +112,7 @@
               <div class="s-12 m-12 l-3 margin-m-bottom-30">
                 <h3 class="text-size-16">Correo</h3>
                 <p class="text-size-14">
-                   hello@zixmonkeys.com
+                   hello@kiebitz.com
                 </p>              
               </div>
               <!-- Collumn 3 -->
@@ -126,7 +126,7 @@
                 <h3 class="text-size-16">Trabaja con Nosotros</h3>
                 <p class="text-size-14">
                    Mándanos un correo a:<br>
-                   hello@zixmonkeys.com
+                   hello@kiebitz.com
                 </p>             
               </div>
             </div>
