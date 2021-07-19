@@ -112,7 +112,7 @@
               <div class="s-12 m-12 l-3 margin-m-bottom-30">
                 <h3 class="text-size-16">Correo</h3>
                 <p class="text-size-14">
-                   hello@kiebitz.com
+                   hello@kiebitz.es
                 </p>              
               </div>
               <!-- Collumn 3 -->
@@ -126,7 +126,7 @@
                 <h3 class="text-size-16">Trabaja con Nosotros</h3>
                 <p class="text-size-14">
                    Mándanos un correo a:<br>
-                   hello@kiebitz.com
+                   hello@kiebitz.es
                 </p>             
               </div>
             </div>

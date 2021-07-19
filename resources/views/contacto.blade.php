@@ -33,7 +33,7 @@
           Madrid, España</p>
           <i class="icon-sli-envelope text-dark text-size-30 center margin-top-20"></i>
           <h2 class="text-size-20 margin-bottom-0 text-dark">Correo</h2>
-          <p>hello@kiebitz.com</p>                
+          <p>hello@kiebitz.es</p>                
           <!-- <a class="text-primary-hover" href="mailto:contact@kiebitz.com">contact@kiebitz.com</a><br>
           <a class="text-primary-hover" href="mailto:office@kiebitz.com">office@kiebitz.com</a> -->
           <i class="icon-sli-earphones-alt text-dark text-size-30 center margin-top-20"></i>
